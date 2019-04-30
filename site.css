@@ -1,0 +1,79 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,700,300);
+@import url(https://fonts.googleapis.com/css?family=Squada+One);
+
+
+
+/* h1 heading on homepage.php */
+#hiwt {
+	text-align: center;
+	font-size: 125px;
+	font-family: 'Open Sans', sans-serif;	
+	font-weight: 800;
+
+	
+	
+	
+}
+
+h2 {
+	text-align: center;
+	font-size: 100px;
+	font-family: 'Open Sans', sans-serif;	
+	font-weight: 300;
+	color: #222222;
+
+}
+
+td {
+	font-size: 50px;
+	text-align: center;
+	padding-top: 15x;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	font-family: 'Open Sans', sans-serif;	
+
+
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+  
+  
+  
+#movieName{
+	font-size: 25px
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+
+body {
+  background-color: #708090;
+  text-align: center;
+
+}
+
+footer {
+	font-size: 60px;
+}
+
+.headingsh1 {
+	text-align: center;
+	font-size: 100px;
+	font-weight: 800;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+
+#profilepara {
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Open Sans', sans-serif;
+	
+	
+}
+
